@@ -1,3 +1,3 @@
 # funny
-<img src=./images/funny1.png>
+<img src=./doge.jpg>
 This is a funny you've never seen before!!
